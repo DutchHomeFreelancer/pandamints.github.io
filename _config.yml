@@ -1,58 +1,65 @@
 # Site settings
-title: Panda Mints
-author: Panda Mints Team
+title: Wasu International
+author: Wasu International Team
 description: >- # this means to ignore newlines until "baseurl:"
-  We are Panda Mints. We build tools that drive results like websites
-  and mobile applications focusing on the critical touch point between
-  you and your customers.
+  We are Wasu International. We build specialized products for Business to Business
+   with a customer base starting from 3000 customers. Think of web applications,
+  mobile applications, maintaining MySql databases and streaming realtime data with PHP.
+  Supplying server services, from setting up new servers and maintaining existing Linux servers.
+
+  We like to share our knowledge with other fellow programmers so we are working
+  on products which other programmers can use, so they can deliver the same quality and speed to their own customers.
+
 keywords:
-  pandamints, wearepandamints, creative, agency, wordpress, websites,
+  wasu, wasuinternational, creative, freelancer, php, websites,
   apps, mobiles, tools, web, website, mobile, tool, app, application,
   applications, creatives, thinkers, partners, paginas, páginas, cuenca,
-  ecuador, quito, guayaquil, clientes, portfolio, portafolio, php, html,
-  html5, jekyll, github, twitter, facebook, redes sociales, redes, sociales,
-  social media, social, media, network, social network, behance, help,
+  ecuador, quito, guayaquil, clientes, php, html, mysql, high, availability,
+  highavailability, streaming, streamingdata, streamingphp, reactphp,
+  html5, github, network, behance, help, sharing, knowledge, programmers,
+  hosting, servers, linux, centos, ubuntu, customers, database, databases,
   ayuda, creativos, experiencia, usuario, ui, ux, user, experience, interface,
   user experience, user interface, connection, touch point, aplicaciones
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pandamints.com"
+url: "https://www.wasu.eu
 
 # Home intro
-intro-line-1: We are Panda Mints.
-intro-line-2: We have passion for what we do and that passion leads us to create upscale tools for our clients.
+intro-line-1: We are Wasu International.
+intro-line-2: We have the freedom and time to do what we like and we like to help You.
 
 # Contact button
 button-label: Contact Us
-button-link: hello@pandamints.com
+  button-link: hello@wasu.eu
 
-# Projects
-projects:
-  
-  - name: Ximena Calle
-    description: Web design and development for virtual classroom making possible for teacher to interact with students.
-    image: ximenacalle.png
-    link: http://ximenacalle.com
+# Networking
+Networking:
+  Our strength lies in having the right people around us.
 
-  - name: Jessica Iskander
-    description: Web design and development for book author Jessica Iskander to showcase her work.
-    image: jessica.png
-    link: https://jessicaiskander.com
+  We have a network of professionals around us:
+    - programmers
+    - creative minds
+    - user interface specialists
+    - user experience professionals
+    - system administrators
 
-# Social
-socialmedia:
+  Not bound or limitted, we can use all available sources to help you with your growth
+  in our specialized field.
 
-  - name: Facebook
-    link: https://www.facebook.com/pandamints
 
-  - name: Twitter
-    link: https://twitter.com/wearepandamints
+# Field of expertise
+Fields or expertise:
+  Our main focus lies on the following fields
+  - PHP
+  - Angular
+  - MySQL databases (> 500 Gb)
+  - Streaming data (Reactphp)
+  - Secure cluster servers with high availability
+  - Apache Spark
 
-  - name: Instagram
-    link: https://www.instagram.com/upscalemints/
 
 # Google Analytics
-gaid: UA-109520023-1
+gaid: UA-140984728-1
 
 # Build settings
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed

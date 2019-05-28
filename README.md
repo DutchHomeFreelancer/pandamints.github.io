@@ -1,2 +1,2 @@
-# Panda Mints, Ltda.
-Official website for Panda Mints based on Jekyll and Github Pages.
+# WASU Limited
+Official website for Wasu Limited based on Jekyll and Github Pages.
